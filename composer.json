@@ -1,0 +1,19 @@
+{
+    "name": "dayu/weixin",
+    "description": "sadf",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xiaoxu",
+            "email": "1195485950@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Hello\\":"vendor/dayu/"
+        }
+    }
+}
